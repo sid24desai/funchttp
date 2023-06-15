@@ -5,3 +5,4 @@
 azure-functions
 playwright==1.15.1
 pyppeteer==0.2.5
+google-cloud-storage
